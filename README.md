@@ -12,8 +12,8 @@
 <h3 align="center">📫 How to reach me: eldin1992@mail.ru  </h3>
 <h3 align="center">⚡ Fun fact: I can't do a somersault </h3>
 
-<span align="center"> <a href="https://www.instagram.com/p1ayton/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"> </a> </span> 
-<div align="center"> <a href="https://t.me/playton12"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="instagram" height="40"> </a> </div> 
+<center><span> <a href="https://www.instagram.com/p1ayton/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"> </a> </span></center>
+<center><span> <a href="https://t.me/playton12"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="instagram" height="40"> </a> </span> </center>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Playton12)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -1,6 +1,7 @@
 <h1 align="center">Hello I'm Playton <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=100&size=25&pause=1000&color=16A5F7&background=FFF3F300&center=true&vCenter=true&width=435&lines=Manual+QA+Engineer+;which+interesed+in+programming" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=100&size=25&pause=1000&color=16A5F7&background=FFF3F300&center=true&vCenter=true&width=435&lines=Manual+QA+Engineer+;which+interesed+in+programming" alt="Typing SVG" /></a>
+</div>
 
 <h2 align="center"> Skills:
   
@@ -11,7 +12,7 @@
 <h3 align="center">📫 How to reach me: eldin1992@mail.ru  </h3>
 <h3 align="center">⚡ Fun fact: I can't do a somersault </h3>
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/p1ayton/)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/playton12)  
+<div align="center"> [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/p1ayton/) </div> <div align="center">[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/playton12) </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Playton12)](https://github.com/ryo-ma/github-profile-trophy)
 

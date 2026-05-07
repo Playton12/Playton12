@@ -12,7 +12,7 @@
 <h3 align="center">📫 How to reach me: eldin1992@mail.ru  </h3>
 <h3 align="center">⚡ Fun fact: I can't do a somersault </h3>
 
-<div align:"center">
+<div align="center">
   <a href="https://www.instagram.com/p1ayton/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
   </a>

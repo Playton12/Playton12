@@ -9,7 +9,6 @@
 
 
 <h3 align="center">🌱 I’m currently learning python, js, auto tests </h3>
-<h3 align="center">📫 How to reach me: eldin1992@mail.ru  </h3>
 <h3 align="center">⚡ Fun fact: 
   
   [![codewars](https://www.codewars.com/users/Playton/badges/large)](https://www.codewars.com/users/Playton) </h3>

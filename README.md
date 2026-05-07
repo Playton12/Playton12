@@ -1,8 +1,7 @@
 <h1 align="center">Hello I'm Playton <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA Engineer 🇷🇺</h3>
-### 
-  
-#### ******
+<h3 align="center">QA Engineer</h3>
+
+#### 
 *Manual QA Engineer which interesed in programming*
 
 Skills: Python / JS / HTML / CSS / QA

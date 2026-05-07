@@ -11,7 +11,9 @@
 <h3 align="center">🌱 I’m currently learning python, js, auto tests </h3>
 <h3 align="center">📫 How to reach me: eldin1992@mail.ru  </h3>
 <h3 align="center">⚡ Fun fact #1: I can't do a somersault </h3>
-<h3 align="center">⚡ Fun fact #2: [![codewars](https://www.codewars.com/users/Playton/badges/large)](https://www.codewars.com/users/Playton) </h3>
+<h3 align="center">⚡ Fun fact #2: 
+  
+  [![codewars](https://www.codewars.com/users/Playton/badges/large)](https://www.codewars.com/users/Playton) </h3>
 
 <div align="center">
   <a href="https://www.instagram.com/p1ayton/">

@@ -1,5 +1,4 @@
 <h1 align="center">Hello I'm Playton <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA Engineer</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=100&size=25&pause=1000&color=16A5F7&background=FFF3F300&center=true&vCenter=true&width=435&lines=Manual+QA+Engineer+;which+interesed+in+programming" alt="Typing SVG" /></a>
 

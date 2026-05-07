@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/p1ayton/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
   </a>
-  <a href="https://t.me/playton12">
+  <a href="https://t.me/p1ayton">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="40">
   </a>
 </div>

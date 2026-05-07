@@ -21,6 +21,8 @@
   </a>
 </div>
 
+[![codewars](https://www.codewars.com/users/Playton/badges/small)](https://www.codewars.com/users/Playton)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Playton12)](https://github.com/ryo-ma/github-profile-trophy)
 
 
